@@ -129,7 +129,7 @@ The following features are supported:
   - Support for modifying database structure using REST endpoint
   - Security enhancing middleware is included
   - Standard compliant: PSR-4, PSR-7, PSR-12, PSR-15 and PSR-17
-
+   - PostgreSQL 9.5 or higher with PostGIS 2.2 or higher for spatial features
 ## Related projects and ports
 
 Related projects:
